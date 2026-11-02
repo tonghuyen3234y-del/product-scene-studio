@@ -1,0 +1,16 @@
+.vercel
+.env*
+!.env.example
+node_modules
+.DS_Store
+*.log
+*.pem
+*.key
+
+# Local product photos and verification screenshots.
+/*.jpg
+/*-ui.png
+/auth-dark-ui.png
+/local-generation-proof.png
+/ui-layout.png
+/sceneo-preview.png
